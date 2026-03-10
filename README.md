@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Naveen Babu 👋
 
-<!--
-**nAVEEnBabU543/nAVEEnBabu543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst | SQL | Python | Power BI | Excel**  
+📍 Hyderabad, India  
+📈 Passionate about turning raw data into meaningful insights and dashboards.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Data Cleaning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/naveen-babu-kommu-853b162b7/
+📧 naveenbabukommu543@gmail.com  
+📍 Hyderabad, India

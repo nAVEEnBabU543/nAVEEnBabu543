@@ -1,6 +1,6 @@
 # Hi, I'm Naveen Babu 👋
 
-💊 Data Analyst passionate about turning data into insights.
+📊 Data Analyst passionate about transforming raw data into actionable insights and interactive dashboards.
 
 📈 Currently building Data Analytics projects using SQL, Python, and Power BI.
 

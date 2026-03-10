@@ -7,11 +7,12 @@
 📊 **Data Analyst | SQL | Python | Power BI | Excel**  
 📍 Hyderabad, India  
 
-## 🛠 Skills
-- SQL
-- Python
+## 🛠 Tools & Technologies
+
+- SQL (MySQL)
+- Python (Pandas, NumPy)
 - Power BI
-- Excel
+- Microsoft Excel
 - Data Cleaning
 - Data Visualization
 

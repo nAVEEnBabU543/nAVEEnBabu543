@@ -16,6 +16,15 @@
 - Data Cleaning
 - Data Visualization
 
+## 📊 Projects
+
+### Excel Sales Dashboard
+- Built an interactive sales dashboard using Excel
+- Used Pivot Tables, Charts, and Slicers
+- Analyzed sales trends and regional performance
+
+🔗 Project Link: https://github.com/nAVEEnBabU543/Excel-Sales-Dashboard
+
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/naveen-babu-kommu-853b162b7/
 📧 naveenbabukommu543@gmail.com  

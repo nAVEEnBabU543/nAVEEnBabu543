@@ -1,8 +1,11 @@
 # Hi, I'm Naveen Babu 👋
 
+💊 Data Analyst passionate about turning data into insights.
+
+📈 Currently building Data Analytics projects using SQL, Python, and Power BI.
+
 📊 **Data Analyst | SQL | Python | Power BI | Excel**  
 📍 Hyderabad, India  
-📈 Passionate about turning raw data into meaningful insights and dashboards.
 
 ## 🛠 Skills
 - SQL

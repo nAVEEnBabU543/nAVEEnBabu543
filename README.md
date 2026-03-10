@@ -29,3 +29,7 @@
 LinkedIn: https://www.linkedin.com/in/naveen-babu-kommu-853b162b7/
 📧 naveenbabukommu543@gmail.com  
 📍 Hyderabad, India
+
+## 📈 GitHub Stats
+
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nAVEEnBabU543&show_icons=true&theme=radical)

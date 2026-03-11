@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Hi, I'm Naveen Babu 👋
 
 📊 Data Analyst passionate about transforming raw data into actionable insights and interactive dashboards.

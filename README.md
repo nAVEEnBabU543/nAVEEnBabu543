@@ -37,14 +37,15 @@ https://github.com/nAVEEnBabu543/Excel-Sales-Dashboard
 
 ---
 
-## 🗄 SQL Data Analysis Project
-Analyzed sales dataset using SQL queries.
+## 📚 SQL Online Bookstore Analysis
 
-Skills Used:
-- Joins
-- Window Functions
-- Aggregations
-- Data Filtering
+Analyzed an online bookstore database using SQL queries including joins, aggregations, and business analytics.
+
+Skills:
+SQL | Data Analysis | Joins | Aggregations
+
+Project Link:
+https://github.com/nAVEEnBabu543/SQL-Online-Bookstore-Analysis
 
 ---
 

@@ -20,6 +20,13 @@
 - Data Cleaning
 - Data Visualization
 
+## 🛠 Tools & Technologies
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ## 📊 Projects
 
 ### Excel Sales Dashboard
@@ -35,8 +42,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nAVEEnBabU543&layout=compact&theme=radical)
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nAVEEnBabu543&theme=tokyonight)
+
 
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/naveen-babu-kommu-853b162b7/
 📧 naveenbabukommu543@gmail.com  
 📍 Hyderabad, India
+
+![Profile Views](https://komarev.com/ghpvc/?username=nAVEEnBabu543&color=blue)

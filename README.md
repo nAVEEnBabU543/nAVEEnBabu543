@@ -32,7 +32,7 @@ Features:
 - Slicers
 - KPI Metrics
 
-🔗 Project Link  
+🔗 Project Link:
 https://github.com/nAVEEnBabu543/Excel-Sales-Dashboard
 
 ---

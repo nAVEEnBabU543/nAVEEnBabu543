@@ -1,4 +1,4 @@
-![Banner](github_banner.png)
+![Banner](g_banner.png)
 
 # Hi, I'm Naveen Babu 👋
 
